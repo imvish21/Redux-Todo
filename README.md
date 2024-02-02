@@ -1,4 +1,4 @@
-#A Todo Webapp utilising "Redux" for state management in React. 
+# A Todo Webapp utilising "Redux" for state management in React. 
 
 # Getting Started with Create React App
 
